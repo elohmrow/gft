@@ -1,0 +1,5 @@
+BUILDING A CUSTOM REST ENDPOINT
+===============================
+https://documentation.magnolia-cms.com/display/DOCS/How+to+create+a+custom+Java+based+REST+endpoint
+
+https://documentation.magnolia-cms.com/display/DOCS/commercetools+Connector+module
